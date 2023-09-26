@@ -1,0 +1,46 @@
+@media screen and (max-width: 760px){
+
+    body{
+        text-align: center;
+    }
+
+    header{
+        flex-direction: column;
+
+    }
+
+    main{
+        flex-direction: column;
+    }
+    h2{
+        font-size: 30px;
+    }
+    
+    form{
+        text-align: center;
+        width: 100%;
+    }
+    img{
+        width: 360px; 
+        height: 360px;
+        margin-top: 15px;
+    }
+    input{
+        align-self: center;
+    }
+    
+    #desespero{
+        padding-left: 60px;
+    }
+    #title{
+        padding-right: 30px;
+    }
+
+    ul{
+        
+    }
+
+    ul{
+        padding-right: 60px;
+    }
+}
